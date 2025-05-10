@@ -1,6 +1,7 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "url": "https://cdn.jsdelivr.net/gh/Xiaobooooo/some_config/zmws_extension/warn.txt",
-  "update": "！！！已关闭更新！！！",
-  "notice": "插件仅供学习交流，禁止恶意使用或传播插件，否则后果自负。请在下载后24小时后删除文件。\n如有侵权，联系作者删除"
+  "update": "1、新增功能面板\n3、开放部分功能\n2、修复部分BUG",
+  "notice": "插件仅供学习交流，禁止恶意使用或传播插件，否则后果自负。请在下载后24小时内删除。\n如有侵权，联系作者删除",
+  "disable": false
 }
